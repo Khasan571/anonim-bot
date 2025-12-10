@@ -1,0 +1,232 @@
+{
+  "users_data": {
+    "5296554946": {
+      "username": null,
+      "first_name": "Xasan",
+      "questions_received": 3,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null,
+      "replying_to": 7545630836,
+      "giving_premium": true
+    },
+    "7789600268": {
+      "username": "Nf0506",
+      "first_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "questions_received": 11,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "1753495653": {
+      "username": null,
+      "first_name": "🖤",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "1884019518": {
+      "username": "xusan_nematov",
+      "first_name": "Xusan Ne'matov",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "7925891638": {
+      "username": null,
+      "first_name": "Xolmamatova D...",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "8111960444": {
+      "username": "uzbmilliyxavfsizlik_006",
+      "first_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "6797154306": {
+      "username": "fayzullayevna0406",
+      "first_name": "❤️🍃",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "8288479095": {
+      "username": "MalikaxonKomilovaa",
+      "first_name": "Elsaxon",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "7122204018": {
+      "username": "abdumalikofff",
+      "first_name": "Mirjalol/ミルジャロル",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "8189404640": {
+      "username": null,
+      "first_name": "Abduqodir",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "7545630836": {
+      "username": null,
+      "first_name": "𝓕𝓪𝓻𝓪𝓷𝓰𝓲𝔃_𝓸𝓶𝓸𝓷𝓸𝓿𝓪",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "7414773736": {
+      "username": "akb1rv_1",
+      "first_name": "akb1rv_",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "8040367252": {
+      "username": "M13tuna",
+      "first_name": "𝓜𝓪𝓯𝓽𝓾𝓷𝓪🎀",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    },
+    "6428002537": {
+      "username": "Doniyorova_G",
+      "first_name": "Салимовна.",
+      "questions_received": 0,
+      "premium": false,
+      "premium_type": null,
+      "premium_expires": null
+    }
+  },
+  "all_messages": [
+    {
+      "from_id": 1753495653,
+      "from_username": null,
+      "from_name": "🖤",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Jonm mn szzi sevamn"
+    },
+    {
+      "from_id": 7925891638,
+      "from_username": null,
+      "from_name": "Xolmamatova D...",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Men sizni yaxshi koʻraman\nSizchi"
+    },
+    {
+      "from_id": 8111960444,
+      "from_username": "uzbmilliyxavfsizlik_006",
+      "from_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Mandarin buket bersam olasizmi jonkam 🤍❤️"
+    },
+    {
+      "from_id": 8111960444,
+      "from_username": "uzbmilliyxavfsizlik_006",
+      "from_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Oberaymi jon 😁❤️"
+    },
+    {
+      "from_id": 6797154306,
+      "from_username": "fayzullayevna0406",
+      "from_name": "❤️🍃",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Ayni paytda paytda o'zizni kim deb bilasiz bu negative fikr yoki sizni yoqtirmaslikmas ya'ni siz kimsiz o'ziz uchun"
+    },
+    {
+      "from_id": 6797154306,
+      "from_username": "fayzullayevna0406",
+      "from_name": "❤️🍃",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "https://t.me/c/2353395299/1827\n\nHamma ham o'zini o'ylaydi masalan men ham😁\n\nAllohni rahmati kengdir insha Alloh bir kun hammamiz Jannatda ham ko'rishamiz😍"
+    },
+    {
+      "from_id": 8111960444,
+      "from_username": "uzbmilliyxavfsizlik_006",
+      "from_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Nimaga sizni bir qiz FANA deb chaqiradi kim u 😳😳😳"
+    },
+    {
+      "from_id": 8111960444,
+      "from_username": "uzbmilliyxavfsizlik_006",
+      "from_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Bir kun umriz qolganini bilganizda bugun nima qilgan boʻlardingiz"
+    },
+    {
+      "from_id": 7545630836,
+      "from_username": null,
+      "from_name": "𝓕𝓪𝓻𝓪𝓷𝓰𝓲𝔃_𝓸𝓶𝓸𝓷𝓸𝓿𝓪",
+      "to_id": 5296554946,
+      "to_name": "Xasan",
+      "text": "Pastdagi suratda nima bor🤓"
+    },
+    {
+      "from_id": 7414773736,
+      "from_username": "akb1rv_1",
+      "from_name": "akb1rv_",
+      "to_id": 5296554946,
+      "to_name": "Xasan",
+      "text": "🖕🏿"
+    },
+    {
+      "from_id": 5296554946,
+      "from_username": null,
+      "from_name": "Xasan",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "ochib koring😂"
+    },
+    {
+      "from_id": 7545630836,
+      "from_username": null,
+      "from_name": "𝓕𝓪𝓻𝓪𝓷𝓰𝓲𝔃_𝓸𝓶𝓸𝓷𝓸𝓿𝓪",
+      "to_id": 5296554946,
+      "to_name": "Xasan",
+      "text": "Admin qiling🤓"
+    },
+    {
+      "from_id": 8111960444,
+      "from_username": "uzbmilliyxavfsizlik_006",
+      "from_name": "__𝓪𝓯𝓰𝓪𝓷𝓼𝓴𝓮_",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "15:15"
+    },
+    {
+      "from_id": 7545630836,
+      "from_username": null,
+      "from_name": "𝓕𝓪𝓻𝓪𝓷𝓰𝓲𝔃_𝓸𝓶𝓸𝓷𝓸𝓿𝓪",
+      "to_id": 7789600268,
+      "to_name": "𝓡𝓾𝓼𝓽𝓪𝓶𝓸𝓿𝓷𝓪_𝓕",
+      "text": "Salom"
+    }
+  ]
+}
